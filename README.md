@@ -1,1 +1,1 @@
-# JAZ-Events---Simple-Event-Management-Software-Python-MySQL-Connectivity-
+JAZ Event Management is a simple CRUD-based event management software developed as a Class 12 Computer Science project using Python and MySQL connectivity. It simplifies database handling by providing structured operations for managing employees, clients, and events, while automatically generating financial reports and profit/loss analysis.
